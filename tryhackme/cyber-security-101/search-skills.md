@@ -90,3 +90,5 @@ Maîtriser ces compétences de recherche permet de :
 - Découvrir vulnérabilités, exploits et ressources techniques efficacement.  
 
 Ces compétences sont indispensables pour tout professionnel en **sécurité offensive et défensive**.
+
+https://tryhackme.com/room/searchskills?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69160a2145533efb57e9c9a2
