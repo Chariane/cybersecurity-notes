@@ -99,3 +99,5 @@ Actions réalisées :
 
 La sécurité défensive est essentielle pour protéger les systèmes informatiques.
 Elle permet de détecter, analyser et répondre aux cyberattaques afin de limiter les dommages et améliorer la sécurité globale des infrastructures.
+
+https://tryhackme.com/room/defensivesecurityintroQR?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69160a2145533efb57e9c9a2
