@@ -64,3 +64,5 @@ Dans le laboratoire FakeBank, j’ai appliqué les concepts suivants :
 
 La sécurité offensive est cruciale pour **anticiper les attaques** et améliorer la sécurité des systèmes.
 Elle permet aux professionnels de **prévenir les risques** en découvrant les failles avant que de vrais hackers ne les exploitent.
+
+https://tryhackme.com/room/offensivesecurityintrokK?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69160a2145533efb57e9c9a2
